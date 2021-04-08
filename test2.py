@@ -1,2 +1,4 @@
 text = 'Remember git'
-print('text')
+print(text)
+text2 = 'Total recall'
+print(text2)
